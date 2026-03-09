@@ -107,6 +107,17 @@ button:hover {
   border: 1px solid #374151;
   align-items: center;
   justify-content: center;
+  font-size: 40px;
+}
+
+.resultado.pouco{
+  border: 2px solid #14532d;
+}
+.resultado.medio{
+  border: 2px solid #713f12;
+}
+.resultado.alto{
+  border: 2px solid #7f1d1d;
 }
 
 footer {
