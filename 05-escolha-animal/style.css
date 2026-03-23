@@ -62,10 +62,10 @@
     margin-bottom: 2.5rem;
   }
 
-  #select{
+  select{
     background-color:white;
-    width: 300px;
-    height: 40px;
+    width: 500px;
+    height: 50px;
   }
 
   label {
@@ -74,4 +74,23 @@
     color: #d1d5db;
     font-size: 1rem;
     text-transform: uppercase;
+  }
+  button{
+    width: 500px;
+    height: 45px;
+    border-radius: 8px;
+    background-color:#facc15;
+    font-size: 1.2rem;
+  }
+
+  .resultado {
+    display: flex;
+    min-height: 6rem;
+    padding: 1.5rem;
+    text-align: center;
+    color: #d1d5db;
+    border: 1px solid #374151;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
   }
